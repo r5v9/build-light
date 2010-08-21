@@ -7,7 +7,7 @@ It works out of the box for Linux. For MacOS libusb 1.x must be installed:
 
     sudo brew install libusb
 
-To configure the script for your hudson instance, change the following line by in run.py:
+To configure the script for your hudson instance, change the following line in run.py:
 
     build_light = HudsonBuildLight(host='127.0.0.1', port=8080, job='your-job-here')
 
