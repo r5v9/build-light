@@ -14,3 +14,5 @@ To configure the script for your hudson instance, change the following line in r
 This script has been tested only on a generation 1 Delcom USB Visual Signal Indicator (804005)
 
 Bundled PyUSB is 1.0.0-a0
+
+Reference for libusb code: http://www.linuxjournal.com/article/7466?page=0,1
