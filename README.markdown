@@ -15,4 +15,6 @@ This script has been tested only on a generation 1 Delcom USB Visual Signal Indi
 
 Bundled PyUSB is 1.0.0-a0
 
-Reference for libusb code: http://www.linuxjournal.com/article/7466?page=0,1
+References for libusb code: 
+* http://www.linuxjournal.com/article/7466?page=0,1
+* http://pyusb.sourceforge.net/docs/1.0/tutorial.html
