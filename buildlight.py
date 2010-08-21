@@ -1,7 +1,4 @@
 
-# for mac os install libusb using: brew install libusb
-# bundled pyusb is 1.0.0-a0
-
 import httplib
 import time
 import os

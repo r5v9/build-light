@@ -12,3 +12,5 @@ To configure the script for your hudson instance, change the following line by i
     build_light = HudsonBuildLight(host='127.0.0.1', port=8080, job='your-job-here')
 
 This script has been tested only on a generation 1 Delcom USB Visual Signal Indicator (804005)
+
+Bundled PyUSB is 1.0.0-a0
